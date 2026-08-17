@@ -6,6 +6,10 @@ This project presents an autonomous emergency braking prototype designed to redu
 
 The system uses a camera feed to detect objects, estimate their distance, monitor lanes, and determine braking or lane-change actions based on the detected environment.
 
+## Project Output
+
+![AEB Object Detection](aeb_object_detection.png)
+
 ## Technologies Used
 
 - Python
